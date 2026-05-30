@@ -55,7 +55,7 @@ If not, print "Release cannot be scheduled".
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement topological sort
 Developed by : ADITYA S
 Register Number:  212223040007
 */
