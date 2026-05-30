@@ -69,7 +69,7 @@ For example:
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to Knapsack problem
 Developed by: ADITYA S
 Register Number:  212223040007
 */
