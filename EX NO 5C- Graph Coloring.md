@@ -54,7 +54,7 @@ Otherwise, print "NO".
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement Graph coloring
 Developed by : ADITYA S
 Register Number:  212223040007
 */
